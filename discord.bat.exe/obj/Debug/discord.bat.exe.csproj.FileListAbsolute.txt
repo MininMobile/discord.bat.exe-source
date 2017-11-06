@@ -1,0 +1,94 @@
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\discord.bat.exe.exe.config
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\discord.bat.exe.exe
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\discord.bat.exe.pdb
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\Discord.Net.Commands.dll
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\Discord.Net.Core.dll
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\Discord.Net.Rest.dll
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\Discord.Net.Rpc.dll
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\Newtonsoft.Json.dll
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\System.AppContext.dll
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\System.Collections.Immutable.dll
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\System.Console.dll
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\System.Interactive.Async.dll
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\System.IO.Compression.dll
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\System.IO.FileSystem.dll
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\System.Net.Http.dll
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\System.Net.Sockets.dll
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\Discord.Net.Commands.xml
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\Discord.Net.Core.xml
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\Discord.Net.Rest.xml
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\Discord.Net.Rpc.xml
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\Newtonsoft.Json.xml
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\System.Collections.Immutable.xml
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\bin\Debug\System.Interactive.Async.xml
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\obj\Debug\discord.bat.exe.csprojResolveAssemblyReference.cache
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\obj\Debug\discord.bat.exe.csproj.CoreCompileInputs.cache
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\obj\Debug\discord.bat.exe.exe
+C:\Users\M1n1n-\source\repos\discord.bat.exe\discord.bat.exe\obj\Debug\discord.bat.exe.pdb
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\discord.bat.exe.exe.config
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\discord.bat.exe.exe
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\discord.bat.exe.pdb
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\Discord.Net.Commands.dll
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\Discord.Net.Core.dll
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\Discord.Net.Rest.dll
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\Discord.Net.Rpc.dll
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\Discord.Net.Webhook.dll
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\Discord.Net.WebSocket.dll
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\Microsoft.Win32.Primitives.dll
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\Newtonsoft.Json.dll
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\System.AppContext.dll
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\System.Collections.Immutable.dll
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\System.Console.dll
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\System.Globalization.Calendars.dll
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\System.Interactive.Async.dll
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\System.IO.Compression.dll
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\System.IO.Compression.ZipFile.dll
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\System.IO.FileSystem.dll
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\System.Net.Http.dll
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\System.Net.Sockets.dll
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\System.Xml.ReaderWriter.dll
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\Discord.Net.Commands.xml
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\Discord.Net.Core.xml
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\Discord.Net.Rest.xml
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\Discord.Net.Rpc.xml
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\Discord.Net.Webhook.xml
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\Discord.Net.WebSocket.xml
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\Newtonsoft.Json.xml
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\System.Collections.Immutable.xml
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\bin\Debug\System.Interactive.Async.xml
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\obj\Debug\discord.bat.exe.csprojResolveAssemblyReference.cache
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\obj\Debug\discord.bat.exe.csproj.CoreCompileInputs.cache
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\obj\Debug\discord.bat.exe.exe
+F:\Data\Documents\Visual Studio Projects\discord.bat.exe\discord.bat.exe\obj\Debug\discord.bat.exe.pdb
