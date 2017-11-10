@@ -5,6 +5,7 @@ using System.Reflection;
 using System.IO;
 using System.Threading.Tasks;
 using System.Diagnostics;
+using Discord;
 
 namespace discord.bat.exe
 {
@@ -47,12 +48,16 @@ namespace discord.bat.exe
             if (File.Exists("update.dat"))
             {
                 var update = File.ReadAllLines("update.dat")[0];
+                File.Delete("update.dat");
 
                 if (update.StartsWith("send"))
                 {
                     update = update.Substring(4);
                     await msg.Channel.SendMessageAsync(update);
-                    File.Delete("update.dat");
+                } else if (update.StartsWith("dm"))
+                {
+                    update = update.Substring(2);
+                    await msg.Author.SendMessageAsync(update);
                 }
             }
         }
